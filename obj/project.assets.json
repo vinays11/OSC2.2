@@ -11880,19 +11880,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\h413495\\.nuget\\packages\\": {}
+    "C:\\Users\\H413495\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\h413495\\source\\repos\\osc-2.2\\osc2.2\\osc2.2.csproj",
+      "projectUniqueName": "C:\\Users\\H413495\\source\\repos\\osc2.2\\OSC2.2\\osc2.2.csproj",
       "projectName": "osc2.2",
-      "projectPath": "C:\\Users\\h413495\\source\\repos\\osc-2.2\\osc2.2\\osc2.2.csproj",
-      "packagesPath": "C:\\Users\\h413495\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\h413495\\source\\repos\\osc-2.2\\osc2.2\\obj\\",
+      "projectPath": "C:\\Users\\H413495\\source\\repos\\osc2.2\\OSC2.2\\osc2.2.csproj",
+      "packagesPath": "C:\\Users\\H413495\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\H413495\\source\\repos\\osc2.2\\OSC2.2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\h413495\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\H413495\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
