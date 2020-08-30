@@ -27,7 +27,7 @@ namespace osc2._2
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Hello World for OSC - V3.1 !");
+                await context.Response.WriteAsync($"Hello World for OSC - V3.1 ! {Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT")}");
             });
         }
     }
