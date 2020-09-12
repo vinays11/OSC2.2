@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Net;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -27,7 +28,7 @@ namespace osc2._2
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync($"Hello World for OSC - V3.1 ! {Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT")}");
+                await context.Response.WriteAsync($"Hello World for OSC - V3.1 ! {Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT")}. Host: {Dns.GetHostName()}");
             });
         }
     }
